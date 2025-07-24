@@ -1,16 +1,37 @@
 [
   {
+    "objectID": "movies.html",
+    "href": "movies.html",
+    "title": "Movies",
+    "section": "",
+    "text": "We are still deciding on which movie to watch… Below are some strong contenders but we would like your input as well! If you are interested in sharing your opinion, please do so in the RSVP\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n13 going on 30\n\n\n\n\n\n\n\n\n\n\n\n\n\nTwilight\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "movies/movie_template.html",
+    "href": "movies/movie_template.html",
+    "title": "Movie title",
+    "section": "",
+    "text": "Release year: 1995\nRuntime: 120min\n\nSummary of the movie."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Big 30",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "You are invited to Reiko and Noah’s 30th birthday party!\nWe’ve rented out Mayfair Theatre for all of you to come share a special movie with us!\n\nDate: Sunday, September 28th\nTime: 12:00pm - 3:00pm\nLocation: Mayfair Theatre (1074 Bank St., Ottawa)\nPrice: TBD\n\nAfterwards, join us for drinks and dinner at CRAFT Beer Market (TBD)\n\nDate: Sunday, September 28th\nTime: 3:15pm - TBD\nLocation: CRAFT Beer Market (975 Bank St., Ottawa)\n\nPlease RSVP at the following link by DATE TBD: TBD"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "movies/13_going_on_30.html",
+    "href": "movies/13_going_on_30.html",
+    "title": "13 going on 30",
     "section": "",
-    "text": "About this site"
+    "text": "Release year: 2004\nRuntime: 98min\n\nUnpopular schoolgirl Jenna Rink makes an unusual wish on her birthday. Miraculously, her wish comes true and the 13-year-old Jenna wakes up the next day as a 30-year-old woman."
+  },
+  {
+    "objectID": "movies/twilight.html",
+    "href": "movies/twilight.html",
+    "title": "Twilight",
+    "section": "",
+    "text": "Release year: 2008\nRuntime: 130min\n\nIt tells the story of Bella Swan, a teenager who moves to a new town and falls in love with Edward Cullen, a vampire with a secret. Their relationship is complicated by the fact that Edward and his family are “vegetarian” vampires, who only drink animal blood, and by the presence of other vampires who pose a threat to Bella."
   }
 ]

@@ -1,0 +1,11 @@
+---
+title: "Movies"
+listing:
+  type: grid
+  contents: movies
+  exclude:
+    title: "Movie title"
+  fields: [image, title]
+---
+
+We are still deciding on which movie to watch... Below are some strong contenders but we would like your input as well! If you are interested in sharing your opinion, please do so in the [RSVP]()

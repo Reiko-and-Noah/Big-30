@@ -8,7 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - movies.qmd
+  favicon: ./static/cake.svg
+  page-navigation: true
 
 format:
   html:

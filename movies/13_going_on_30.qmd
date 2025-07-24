@@ -1,0 +1,23 @@
+---
+title: "13 going on 30"
+image: /static/movies/13_going_on_30.png
+---
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+- Release year: 2004
+- Runtime: 98min
+
+Unpopular schoolgirl Jenna Rink makes an unusual wish on her birthday. Miraculously, her wish comes true and the 13-year-old Jenna wakes up the next day as a 30-year-old woman.
+
+:::
+
+::: {.column width="40%"}
+
+![](/static/movies/13_going_on_30.png)
+
+:::
+
+::::

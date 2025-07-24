@@ -1,0 +1,23 @@
+---
+title: "Movie title"
+image: /static/movies/example.png
+---
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+- Release year: 1995
+- Runtime: 120min
+
+Summary of the movie.
+
+:::
+
+::: {.column width="40%"}
+
+![](/static/movies/example.png)
+
+:::
+
+::::
