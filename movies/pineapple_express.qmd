@@ -1,0 +1,23 @@
+---
+title: "Pineapple Express"
+image: /static/movies/pineapple_express.jpg
+---
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+- Release year: 2008
+- Runtime: 111min
+
+A process server and his marijuana dealer wind up on the run from hitmen and a corrupt police officer after he witnesses his dealer's boss murder a competitor while trying to serve papers on him.
+
+:::
+
+::: {.column width="40%"}
+
+![](/static/movies/pineapple_express.jpg)
+
+:::
+
+::::

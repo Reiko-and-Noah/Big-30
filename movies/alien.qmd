@@ -1,0 +1,23 @@
+---
+title: "Alien"
+image: /static/movies/alien.jpg
+---
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+- Release year: 1979
+- Runtime: 117min
+
+After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.
+
+:::
+
+::: {.column width="40%"}
+
+![](/static/movies/alien.jpg)
+
+:::
+
+::::

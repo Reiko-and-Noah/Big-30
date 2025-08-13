@@ -1,0 +1,23 @@
+---
+title: "Fargo"
+image: /static/movies/fargo.jpg
+---
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+- Release year: 1996
+- Runtime: 98min
+
+Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.
+
+:::
+
+::: {.column width="40%"}
+
+![](/static/movies/fargo.jpg)
+
+:::
+
+::::

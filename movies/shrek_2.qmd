@@ -1,0 +1,23 @@
+---
+title: "Shrek 2"
+image: /static/movies/shrek_2.jpg
+---
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+- Release year: 2004
+- Runtime: 93min
+
+Shrek and Fiona travel to the Kingdom of Far Far Away, where Fiona's parents are King and Queen, to celebrate their marriage. When they arrive, they find they are not as welcome as they thought they would be
+
+:::
+
+::: {.column width="40%"}
+
+![](/static/movies/shrek_2.jpg)
+
+:::
+
+::::

@@ -4,14 +4,56 @@
     "href": "movies.html",
     "title": "Movies",
     "section": "",
-    "text": "We are still deciding on which movie to watch… Below are some strong contenders but we would like your input as well! If you are interested in sharing your opinion, please do so in the RSVP\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n13 going on 30\n\n\n\n\n\n\n\n\n\n\n\n\n\nTwilight\n\n\n\n\n\n\n\nNo matching items"
+    "text": "We are still deciding on which movie to watch… Below are some strong contenders but we would like your input as well! If you are interested in sharing your opinion, please do so in the RSVP\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n13 going on 30\n\n\n\n\n\n\n\n\n\n\n\n\nAce Ventura: When Nature Calls\n\n\n\n\n\n\n\n\n\n\n\n\nAlien\n\n\n\n\n\n\n\n\n\n\n\n\nFargo\n\n\n\n\n\n\n\n\n\n\n\n\nHackers\n\n\n\n\n\n\n\n\n\n\n\n\nJennifer’s Body\n\n\n\n\n\n\n\n\n\n\n\n\nKung Fu Panda\n\n\n\n\n\n\n\n\n\n\n\n\nMamma Mia\n\n\n\n\n\n\n\n\n\n\n\n\nPineapple Express\n\n\n\n\n\n\n\n\n\n\n\n\nShrek 2\n\n\n\n\n\n\n\n\n\n\n\n\nThe Land Before Time\n\n\n\n\n\n\n\n\n\n\n\n\nThe Usual Suspects\n\n\n\n\n\n\n\n\n\n\n\n\nTwilight\n\n\n\n\n\n\n\n\n\n\n\n\nWALL-E\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "movies/movie_template.html",
-    "href": "movies/movie_template.html",
-    "title": "Movie title",
+    "objectID": "movies/twilight.html",
+    "href": "movies/twilight.html",
+    "title": "Twilight",
     "section": "",
-    "text": "Release year: 1995\nRuntime: 120min\n\nSummary of the movie."
+    "text": "Release year: 2008\nRuntime: 130min\n\nWhen Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire."
+  },
+  {
+    "objectID": "movies/the_land_before_time.html",
+    "href": "movies/the_land_before_time.html",
+    "title": "The Land Before Time",
+    "section": "",
+    "text": "Release year: 1988\nRuntime: 69min\n\nAn orphaned brontosaurus teams up with other young dinosaurs in order to reunite with their families in a valley."
+  },
+  {
+    "objectID": "movies/pineapple_express.html",
+    "href": "movies/pineapple_express.html",
+    "title": "Pineapple Express",
+    "section": "",
+    "text": "Release year: 2008\nRuntime: 111min\n\nA process server and his marijuana dealer wind up on the run from hitmen and a corrupt police officer after he witnesses his dealer’s boss murder a competitor while trying to serve papers on him."
+  },
+  {
+    "objectID": "movies/mamma_mia.html",
+    "href": "movies/mamma_mia.html",
+    "title": "Mamma Mia",
+    "section": "",
+    "text": "Release year: 2008\nRuntime: 108min\n\nDonna, an independent hotelier, is preparing for her daughter’s wedding with the help of two old friends. Meanwhile Sophie, the spirited bride, has a plan. She invites three men from her mother’s past in hope of meeting her real father."
+  },
+  {
+    "objectID": "movies/jennifers_body.html",
+    "href": "movies/jennifers_body.html",
+    "title": "Jennifer’s Body",
+    "section": "",
+    "text": "Release year: 2009\nRuntime: 102min\n\nA newly-possessed high-school cheerleader turns into a succubus who specializes in killing her male classmates. Can her best friend put an end to the horror?"
+  },
+  {
+    "objectID": "movies/fargo.html",
+    "href": "movies/fargo.html",
+    "title": "Fargo",
+    "section": "",
+    "text": "Release year: 1996\nRuntime: 98min\n\nMinnesota car salesman Jerry Lundegaard’s inept crime falls apart due to his and his henchmen’s bungling and the persistent police work of the quite pregnant Marge Gunderson."
+  },
+  {
+    "objectID": "movies/ace_ventura_when_nature_calls.html",
+    "href": "movies/ace_ventura_when_nature_calls.html",
+    "title": "Ace Ventura: When Nature Calls",
+    "section": "",
+    "text": "Release year: 1995\nRuntime: 90min\n\nAce Ventura, Pet Detective, returns from a spiritual quest to investigate the disappearance of a rare white bat, the sacred animal of a tribe in Africa."
   },
   {
     "objectID": "index.html",
@@ -28,10 +70,52 @@
     "text": "Release year: 2004\nRuntime: 98min\n\nUnpopular schoolgirl Jenna Rink makes an unusual wish on her birthday. Miraculously, her wish comes true and the 13-year-old Jenna wakes up the next day as a 30-year-old woman."
   },
   {
-    "objectID": "movies/twilight.html",
-    "href": "movies/twilight.html",
-    "title": "Twilight",
+    "objectID": "movies/alien.html",
+    "href": "movies/alien.html",
+    "title": "Alien",
     "section": "",
-    "text": "Release year: 2008\nRuntime: 130min\n\nIt tells the story of Bella Swan, a teenager who moves to a new town and falls in love with Edward Cullen, a vampire with a secret. Their relationship is complicated by the fact that Edward and his family are “vegetarian” vampires, who only drink animal blood, and by the presence of other vampires who pose a threat to Bella."
+    "text": "Release year: 1979\nRuntime: 117min\n\nAfter investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform."
+  },
+  {
+    "objectID": "movies/hackers.html",
+    "href": "movies/hackers.html",
+    "title": "Hackers",
+    "section": "",
+    "text": "Release year: 1995\nRuntime: 105min\n\nTeenage hackers discover a criminal conspiracy with plans to use a computer virus that will capsize five oil tankers."
+  },
+  {
+    "objectID": "movies/kung_fu_panda.html",
+    "href": "movies/kung_fu_panda.html",
+    "title": "Kung Fu Panda",
+    "section": "",
+    "text": "Release year: 2008\nRuntime: 92min\n\nTo everyone’s surprise, including his own, Po, an overweight, clumsy panda, is chosen as protector of the Valley of Peace. His suitability will soon be tested as the valley’s arch-enemy is on his way."
+  },
+  {
+    "objectID": "movies/movie_template.html",
+    "href": "movies/movie_template.html",
+    "title": "Movie title",
+    "section": "",
+    "text": "Release year: 1995\nRuntime: 120min\n\nSummary of the movie."
+  },
+  {
+    "objectID": "movies/shrek_2.html",
+    "href": "movies/shrek_2.html",
+    "title": "Shrek 2",
+    "section": "",
+    "text": "Release year: 2004\nRuntime: 93min\n\nShrek and Fiona travel to the Kingdom of Far Far Away, where Fiona’s parents are King and Queen, to celebrate their marriage. When they arrive, they find they are not as welcome as they thought they would be"
+  },
+  {
+    "objectID": "movies/the_usual_suspects.html",
+    "href": "movies/the_usual_suspects.html",
+    "title": "The Usual Suspects",
+    "section": "",
+    "text": "Release year: 1995\nRuntime: 106min\n\nThe sole survivor of a pier shoot-out tells the story of how a notorious criminal influenced the events that began with five criminals meeting in a seemingly random police lineup."
+  },
+  {
+    "objectID": "movies/walle.html",
+    "href": "movies/walle.html",
+    "title": "WALL-E",
+    "section": "",
+    "text": "Release year: 2008\nRuntime: 98min\n\nA robot who is responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind."
   }
 ]

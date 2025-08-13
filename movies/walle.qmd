@@ -1,0 +1,23 @@
+---
+title: "WALL-E"
+image: /static/movies/walle.jpg
+---
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+- Release year: 2008
+- Runtime: 98min
+
+A robot who is responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind.
+
+:::
+
+::: {.column width="40%"}
+
+![](/static/movies/walle.jpg)
+
+:::
+
+::::

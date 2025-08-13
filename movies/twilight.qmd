@@ -10,7 +10,7 @@ image: /static/movies/twilight.png
 - Release year: 2008
 - Runtime: 130min
 
-It tells the story of Bella Swan, a teenager who moves to a new town and falls in love with Edward Cullen, a vampire with a secret. Their relationship is complicated by the fact that Edward and his family are "vegetarian" vampires, who only drink animal blood, and by the presence of other vampires who pose a threat to Bella. 
+When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire.
 
 :::
 
