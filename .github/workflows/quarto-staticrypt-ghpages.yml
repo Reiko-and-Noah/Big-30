@@ -29,7 +29,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       PROTECTED_DIR: docs
-      PASSWORD: password
+      PASSWORD: popcorn
       # PASSWORD: ${{ secrets.YOUR_SECRET }}
     steps:
       - name: Check PASSWORD variable
