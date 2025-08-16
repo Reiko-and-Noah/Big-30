@@ -5,6 +5,8 @@ toc: false
 
 Reiko and Noah are celebrating their 30th birthday party with a two-part event and you are invited to join us at both!
 
+![](static/banner.png)
+
 ## Movie at Mayfair
 
 We've rented out [Mayfair Theatre](https://mayfairtheatre.ca/) for all of you to come share a special movie with us! However, we don't yet know what that movie will be and we want your help... Check out our options [here](https://reiko-and-noah.github.io/Big-30/movies.html) and vote for your favorites in the RSVP!
