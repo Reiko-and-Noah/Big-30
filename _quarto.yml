@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+execute:
+  freeze: true
+
 website:
   title: "Big 30"
   navbar:
