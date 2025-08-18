@@ -4,7 +4,7 @@
     "href": "movies.html",
     "title": "Movies",
     "section": "",
-    "text": "We are still deciding on which movie to watch… Below are some strong contenders but we would like your input as well! If you are interested in sharing your opinion, please do so when you RSVP!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n13 going on 30\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlien\n\n\n\n\n\n\n\n\n\n\n\n\n\nFargo\n\n\n\n\n\n\n\n\n\n\n\n\n\nKung Fu Panda\n\n\n\n\n\n\n\n\n\n\n\n\n\nPineapple Express\n\n\n\n\n\n\n\n\n\n\n\n\n\nShrek 2\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Usual Suspects\n\n\n\n\n\n\n\n\n\n\n\n\n\nTwilight\n\n\n\n\n\n\n\n\n\n\n\n\n\nWALL-E\n\n\n\n\n\n\n\nNo matching items"
+    "text": "We are still deciding on which movie to watch… Below are some strong contenders but we would like your input as well! If you are interested in sharing your opinion, please do so when you RSVP!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n13 going on 30\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlien\n\n\n\n\n\n\n\n\n\n\n\n\n\nFargo\n\n\n\n\n\n\n\n\n\n\n\n\n\nPineapple Express\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Usual Suspects\n\n\n\n\n\n\n\n\n\n\n\n\n\nTwilight\n\n\n\n\n\n\n\n\n\n\n\n\n\nWALL-E\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "movies/twilight.html",
@@ -14,18 +14,11 @@
     "text": "Release year: 2008\nRuntime: 130min\n\nWhen Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire."
   },
   {
-    "objectID": "movies/shrek_2.html",
-    "href": "movies/shrek_2.html",
-    "title": "Shrek 2",
+    "objectID": "movies/pineapple_express.html",
+    "href": "movies/pineapple_express.html",
+    "title": "Pineapple Express",
     "section": "",
-    "text": "Release year: 2004\nRuntime: 93min\n\nShrek and Fiona travel to the Kingdom of Far Far Away, where Fiona’s parents are King and Queen, to celebrate their marriage. When they arrive, they find they are not as welcome as they thought they would be"
-  },
-  {
-    "objectID": "movies/movie_template.html",
-    "href": "movies/movie_template.html",
-    "title": "Movie title",
-    "section": "",
-    "text": "Release year: 1995\nRuntime: 120min\n\nSummary of the movie."
+    "text": "Release year: 2008\nRuntime: 111min\n\nA process server and his marijuana dealer wind up on the run from hitmen and a corrupt police officer after he witnesses his dealer’s boss murder a competitor while trying to serve papers on him."
   },
   {
     "objectID": "movies/fargo.html",
@@ -53,14 +46,14 @@
     "href": "index.html#movie-at-mayfair",
     "title": "Big 30",
     "section": "Movie at Mayfair",
-    "text": "Movie at Mayfair\nWe’ve rented out Mayfair Theatre for all of you to come share a special movie with us! However, we don’t yet know what that movie will be and we want your help… Check out our options here and vote for your favorites in the RSVP!\nNote that the concession stand will be open with snacks for purchase during this showing."
+    "text": "Movie at Mayfair\nWe’ve rented out Mayfair Theatre for all of you to come share a special movie with us! However, we don’t yet know what that movie will be and we want your help… Check out our options here and vote for your favorites in the RSVP!\n\nDate : Sunday, September 28th, 2025\nTime : 12:00pm - 3:00pm (the movie will start around 12:15pm)\nLocation : Mayfair Theatre (1074 Bank St., Ottawa)\nMovie : To be determined…\nNote: the concession stand will be open with snacks for purchase during this showing."
   },
   {
     "objectID": "index.html#cake-and-happy-hour",
     "href": "index.html#cake-and-happy-hour",
     "title": "Big 30",
     "section": "Cake and Happy Hour",
-    "text": "Cake and Happy Hour\nAfterwards, join us in continuing the celebration at CRAFT Beer Market’s happy hour where will will also be serving cake!\nRSVP: If you can make it, please RSVP at the this link by August 31st, 2025. The specific details for our two events can be found in the RSVP!"
+    "text": "Cake and Happy Hour\nAfterwards, join us in continuing the celebration at CRAFT Beer Market’s happy hour where will will also be serving cake!\n\nDate : Sunday, September 28th, 2025\nTime : 3:00pm (or when the movie ends) - 6:00pm\nLocation : CRAFT Beer Market (975 Bank St., Ottawa)\n\nRSVP: If you can make it, please RSVP at the this link by August 31st, 2025."
   },
   {
     "objectID": "movies/alien.html",
@@ -70,18 +63,11 @@
     "text": "Release year: 1979\nRuntime: 117min\n\nAfter investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform."
   },
   {
-    "objectID": "movies/kung_fu_panda.html",
-    "href": "movies/kung_fu_panda.html",
-    "title": "Kung Fu Panda",
+    "objectID": "movies/movie_template.html",
+    "href": "movies/movie_template.html",
+    "title": "Movie title",
     "section": "",
-    "text": "Release year: 2008\nRuntime: 92min\n\nTo everyone’s surprise, including his own, Po, an overweight, clumsy panda, is chosen as protector of the Valley of Peace. His suitability will soon be tested as the valley’s arch-enemy is on his way."
-  },
-  {
-    "objectID": "movies/pineapple_express.html",
-    "href": "movies/pineapple_express.html",
-    "title": "Pineapple Express",
-    "section": "",
-    "text": "Release year: 2008\nRuntime: 111min\n\nA process server and his marijuana dealer wind up on the run from hitmen and a corrupt police officer after he witnesses his dealer’s boss murder a competitor while trying to serve papers on him."
+    "text": "Release year: 1995\nRuntime: 120min\n\nSummary of the movie."
   },
   {
     "objectID": "movies/the_usual_suspects.html",
